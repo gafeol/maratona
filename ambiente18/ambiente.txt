@@ -1,0 +1,45 @@
+SO:
+    Ubuntu 18.04 Linux (64-bit) - com pacotes Maratona-Linux
+
+Desktop:
+
+    Gnome 3
+
+Editores:
+
+    vim
+    gvim
+    emacs
+    gedit
+    geany
+    kate
+    codeblocks
+
+Linguagens:
+
+    C
+        gcc (Ubuntu 7.3.0-12ubuntu1) 7.3.0
+    C++
+        g++ (Ubuntu 7.3.0-12ubuntu1) 7.3.0
+
+    Python 2
+        Python 2.7.14+
+
+    Python 3
+        Python 3.6.5.
+
+    Java
+        OpenJDK version 1.8.0_162
+        OpenJDK Runtime Environment (build 1.8.0_162-8u162-b12-1-b12)
+        OpenJDK 64-Bit Server VM (build 25.162-b12, mixed mode)
+
+    Kotlin
+        Kotlin version 1.2.30-release-78 (JRE 1.8.0_162-8u162-b12-1-b12)
+
+IDEs:
+
+    Java - Eclipse 3.8.1
+    C/C++ - CDT 8.6.0 under Eclipse 3.8.1
+    Python - PyCharm Community - 2018.1
+    Java - Intellij Idea Community - 2018.1
+

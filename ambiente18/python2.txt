@@ -1,0 +1,96 @@
+python -c "help('modules')"
+
+Please wait a moment while I gather a list of all available modules...
+
+BaseHTTPServer      apt                 htmllib             select
+Bastion             apt_inst            httplib             sets
+CDROM               apt_pkg             ihooks              sgmllib
+CGIHTTPServer       aptsources          imaplib             sha
+Canvas              argparse            imghdr              shelve
+ConfigParser        array               imp                 shlex
+Cookie              ast                 importlib           shutil
+DLFCN               asynchat            imputil             signal
+Dialog              asyncore            inspect             site
+DocXMLRPCServer     atexit              io                  sitecustomize
+FileDialog          audiodev            itertools           smtpd
+FixTk               audioop             json                smtplib
+HTMLParser          base64              keyword             sndhdr
+IN                  bdb                 lib2to3             socket
+MimeWriter          binascii            linecache
+softwareproperties
+Queue               binhex              linuxaudiodev       spwd
+ScrolledText        bisect              locale              sqlite3
+SimpleDialog        bsddb               logging             sre
+SimpleHTTPServer    bz2                 lsb_release         sre_compile
+SimpleXMLRPCServer  cPickle             macpath             sre_constants
+SocketServer        cProfile            macurl2path         sre_parse
+StringIO            cStringIO           mailbox             ssl
+TYPES               calendar            mailcap             stat
+Tix                 cgi                 markupbase          statvfs
+Tkconstants         cgitb               marshal             string
+Tkdnd               chunk               math                stringold
+Tkinter             cmath               md5                 stringprep
+UserDict            cmd                 mhlib               strop
+UserList            code                mimetools           struct
+UserString          codecs              mimetypes           subprocess
+_LWPCookieJar       codeop              mimify              sunau
+_MozillaCookieJar   collections         mmap                sunaudio
+__builtin__         colorsys            modulefinder        symbol
+__future__          commands            multifile           symtable
+_abcoll             compileall          multiprocessing     sys
+_ast                compiler            mutex               sysconfig
+_bisect             contextlib          netrc               syslog
+_bsddb              cookielib           new                 tabnanny
+_codecs             copy                nis                 tarfile
+_codecs_cn          copy_reg            nntplib             telnetlib
+_codecs_hk          crypt               ntpath              tempfile
+_codecs_iso2022     csv                 nturl2path          termios
+_codecs_jp          ctypes              numbers             test
+_codecs_kr          curl                opcode              textwrap
+_codecs_tw          curses              operator            this
+_collections        datetime            optparse            thread
+_csv                dbhash              os                  threading
+_ctypes             dbm                 os2emxpath          time
+_ctypes_test        debconf             ossaudiodev         timeit
+_curses             decimal             parser              tkColorChooser
+_curses_panel       difflib             pdb                 tkCommonDialog
+_elementtree        dircache            pickle              tkFileDialog
+_functools          dis                 pickletools         tkFont
+_hashlib            distutils           pipes               tkMessageBox
+_heapq              doctest             pkg_resources       tkSimpleDialog
+_hotshot            dumbdbm             pkgutil             toaiff
+_io                 dummy_thread        platform            token
+_json               dummy_threading     plistlib            tokenize
+_locale             email               popen2              trace
+_lsprof             encodings           poplib              traceback
+_md5                ensurepip           posix               ttk
+_multibytecodec     errno               posixfile           tty
+_multiprocessing    exceptions          posixpath           turtle
+_osx_support        fcntl               pprint              types
+_pyio               filecmp             profile             unicodedata
+_random             fileinput           pstats              unittest
+_sha                fnmatch             pty                 urllib
+_sha256             formatter           pwd                 urllib2
+_sha512             fpectl              py_compile          urlparse
+_socket             fpformat            pyclbr              user
+_sqlite3            fractions           pycurl              uu
+_sre                ftplib              pydoc               uuid
+_ssl                functools           pydoc_data          warnings
+_strptime           future_builtins     pyexpat             wave
+_struct             gc                  pyflakes            weakref
+_symtable           genericpath         quopri              webbrowser
+_sysconfigdata      getopt              random              whichdb
+_sysconfigdata_nd   getpass             re                  wsgiref
+_testcapi           gettext             readline            xdrlib
+_threading_local    glob                repr                xml
+_warnings           grp                 resource            xmllib
+_weakref            gzip                rexec               xmlrpclib
+_weakrefset         hashlib             rfc822              xxsubtype
+abc                 heapq               rlcompleter         zipfile
+aifc                hmac                robotparser         zipimport
+antigravity         hotshot             runpy               zlib
+anydbm              htmlentitydefs      sched               
+
+Enter any module name to get more help.  Or, type "modules spam" to search
+for modules whose descriptions contain the word "spam".
+

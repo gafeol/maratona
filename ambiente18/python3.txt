@@ -1,0 +1,87 @@
+python3 -c "help('modules')"
+
+Please wait a moment while I gather a list of all available modules...
+
+CDROM               _weakref            grp                 rlcompleter
+DLFCN               _weakrefset         gzip                runpy
+IN                  abc                 hashlib             sched
+TYPES               aifc                heapq               select
+__future__          antigravity         hmac                selectors
+_ast                apt                 html                shelve
+_bisect             apt_inst            http                shlex
+_bootlocale         apt_pkg             idlelib             shutil
+_bz2                aptsources          imaplib             signal
+_codecs             argparse            imghdr              site
+_codecs_cn          array               imp                 sitecustomize
+_codecs_hk          ast                 importlib           smtpd
+_codecs_iso2022     asynchat            inspect             smtplib
+_codecs_jp          asyncio             io                  sndhdr
+_codecs_kr          asyncore            ipaddress           socket
+_codecs_tw          atexit              itertools           socketserver
+_collections        audioop             json
+softwareproperties
+_collections_abc    base64              keyword             spwd
+_compat_pickle      bdb                 lib2to3             sqlite3
+_compression        binascii            linecache           sre_compile
+_crypt              binhex              locale              sre_constants
+_csv                bisect              logging             sre_parse
+_ctypes             builtins            lsb_release         ssl
+_ctypes_test        bz2                 lzma                stat
+_curses             cProfile            macpath             statistics
+_curses_panel       calendar            macurl2path         string
+_datetime           cgi                 mailbox             stringprep
+_dbm                cgitb               mailcap             struct
+_dbus_bindings      chunk               marshal             subprocess
+_dbus_glib_bindings cmath               math                sunau
+_decimal            cmd                 mimetypes           symbol
+_dummy_thread       code                mmap                symtable
+_elementtree        codecs              modulefinder        sys
+_functools          codeop              multiprocessing     sysconfig
+_hashlib            collections         netrc               syslog
+_heapq              colorsys            nis                 tabnanny
+_imp                compileall          nntplib             tarfile
+_io                 concurrent          ntpath              telnetlib
+_json               configparser        nturl2path          tempfile
+_locale             contextlib          numbers             termios
+_lsprof             copy                opcode              test
+_lzma               copyreg             operator            textwrap
+_markupbase         crypt               optparse            this
+_md5                csv                 os                  threading
+_multibytecodec     ctypes              ossaudiodev         time
+_multiprocessing    curl                parser              timeit
+_opcode             curses              pathlib             tkinter
+_operator           datetime            pdb                 token
+_osx_support        dbm                 pickle              tokenize
+_pickle             dbus                pickletools         trace
+_posixsubprocess    debconf             pipes               traceback
+_pydecimal          decimal             pkg_resources       tracemalloc
+_pyio               difflib             pkgutil             tty
+_random             dis                 platform            turtle
+_sha1               distutils           plistlib            types
+_sha256             doctest             poplib              typing
+_sha512             dummy_threading     posix               unicodedata
+_signal             email               posixpath           unittest
+_sitebuiltins       encodings           pprint              urllib
+_socket             enum                profile             uu
+_sqlite3            errno               pstats              uuid
+_sre                faulthandler        pty                 venv
+_ssl                fcntl               pwd                 warnings
+_stat               filecmp             py_compile          wave
+_string             fileinput           pyclbr              weakref
+_strptime           fnmatch             pycurl              webbrowser
+_struct             formatter           pydoc               wsgiref
+_symtable           fpectl              pydoc_data          xdrlib
+_sysconfigdata      fractions           pyexpat             xml
+_sysconfigdata_m    ftplib              pyflakes            xmlrpc
+_testbuffer         functools           pygtkcompat         xxlimited
+_testcapi           gc                  queue               xxsubtype
+_testimportmultiple genericpath         quopri              zipapp
+_testmultiphase     getopt              random              zipfile
+_thread             getpass             re                  zipimport
+_threading_local    gettext             readline            zlib
+_tracemalloc        gi                  reprlib             
+_warnings           glob                resource            
+
+Enter any module name to get more help.  Or, type "modules spam" to search
+for modules whose name or summary contain the string "spam".
+

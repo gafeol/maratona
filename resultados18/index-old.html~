@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title> XXII Maratona de Programa&ccedil;&atilde;o </title>
+</head>
+
+<body>
+<center>
+ <a href="http://icpc.baylor.edu"> <img src="../icpc.jpg" height=200></a> <p>
+ <br> <p> <br> <p> 
+ <img SRC="../logomdp.jpg" name="logo">
+
+<p> <br>   <p> 
+
+<h1> <font color=green>  Primeira Fase: 9 de setembro de 2017  <br> 
+ Final Brasileira: Foz do Igua&ccedil;u, 10 e 11 de novembro de 2017 </font> </h1>  <p> 
+
+
+</center>
+
+<h1> <img src="logo-final2018.png" height=100> Resultados da Final Brasileira 2018</a> </h1> 
+
+A final brasileira de 2018 foi realizada em Salvador, Bahia, com
+realiza&ccedil;&atilde;o do SENAI Cimatec e da Universidade Federal da Bahia. aOs diretores da final
+brasileira s&atilde;o Caroline Paim (SENAI Cimatec), Rubisley Lemes (UFBA) e Mauricio Pamplona Segunda (UFBA).
+<p>
+
+<center> <img src="fotos/todomundo.jpg" width=1300> </center> 
+
+<p>
+
+A prova ocorreu no SENAI Cimatec, que acomodou
+confortavelmente os 71 times times presentes. Os times visitaram o Projeto Tamar na Praia do Forte na v&eacute;spera e tiveram uma excelente estadia na bela capital baiana. 
+
+<center>
+<img src="fotos/" width=750>
+<img src="fotos/" width=750>
+</center>  
+
+<p> 
+Os <a href="warmup.pdf"> problemas do warm-up.</a> <a
+href="info_sheet.pdf"> Folha de informa&ccedil;&otilde;es.</a>
+<a href="warmup_times.pdf"> Tempos limite do warm-up. </a> 
+Entradas e sa&iacute;das (<a href="warmup_input_output.zip"> zip file</a>) e autores dos
+problemas:
+<ul>
+  <li> <a href="warmup/A"> A. Secret Chamber at Mount Rushmore </a>
+  <br> 
+World Finals 2017 <p> 
+
+  <li> <a href="warmup/B"> B. Mean Median Problem </a> <br> 
+Pablo Ariel Heiber, Argentina <p> 
+
+  <li> <a href="warmup/C"> C. Pangram </a> <br> 
+In&eacute;s Kereki, Uruguai <p> 
+</ul>
+
+<a href="contest.pdf"> Problemas da competi&ccedil;&atilde;o.</a>
+<a href="info_sheet.pdf"> Folha de informa&ccedil;&otilde;es.</a>
+<a href="contest_times.pdf"> Tempos limite. </a> 
+Entradas e sa&iacute;das (<a href="input_output.zip"> zip file</a>) e autores dos
+problemas:
+
+<ul>
+  <li> <a href= "A/"> A. Arranging tiles </a> <br> 
+Guilherme A. Pinto, Brasil <p> 
+
+  <li> <a href= "B/">  B. Buggy ICPC </a> <br> 
+Gabriel Poesia, Brazil <p> 
+
+  <li> <a href= "C/">  C. Complete Naebbirac's sequence </a> <br> 
+Yonny Modelo Hern&aacute;ndez, Cuba <p> 
+
+  <li> <a href= "D/">  D. Dauting device </a> <br> 
+Walter Erquinigo, Peru <p> 
+
+  <li> <a href= "E/">  E. Enigma </a> <br> 
+Jeferson Lesb&atilde;o, Brasil <p> 
+
+  <li> <a href= "F/">  F. Fundraising </a> <br> 
+Paulo Cezar Pereira Costa, Brasil <p> 
+
+  <li> <a href= "G/">  G. Gates of uncertainty </a> <br> 
+Ricardo Anido <p> 
+
+  <li> <a href= "H/">  H. Hard choice </a> <br> 
+In&eacute;s Kereki, Uruguai <p> 
+
+  <li> <a href= "I/">  I. Imperial roads </a> <br> 
+Edwin Ni&ntilde;o, Colombia <p> 
+
+  <li> <a href= "J/">  J. Jumping Frog </a> <br> 
+Gabriel Poesia, Brasil  <p> 
+
+  <li> <a href= "K/">  K. Keep it covered </a> <br> 
+Paulo Cezar Pereira Costa, Brasil  <p> 
+
+  <li> <a href= "L/">  L. Linearville </a> <br> 
+Guilherme A. Pinto, Brasil  <p> 
+
+  <li> <a href= "M/">  M. Marblecoin </a> <br> 
+Paulo Cezar Pereira Costa, Brasil 
+  
+</ul>
+
+As pessoas abaixo ajudaram no desenvolvimento do conjunto de problemas
+criando e aperfei&ccedil;oando os enunciados, solu&ccedil;&otilde;es casos de teste e
+checadores das entradas e sa&iacute;da:
+      Alejandro Strejilvich de Loma, Argentina; 
+      Guilherme Albuquerque Pinto, Brasil;
+      Gabriel Poesia, Brasil;
+      Jeferson Lesb&atilde;o, Brasil;
+      Maur&iacute;cio Collares, Brasil;
+      Paulo Cezar Pereira Costa, Brasil; e
+      Ricardo Anido, Brasil.
+<p>
+Os ju&iacute;zes fizeram uma <a href="presentation_brazil_nopause.pdf"> apresenta&ccedil;&atilde;o</a>  sobre os problemas da competi&ccedil;&atilde;o. 
+
+<h1> Resultados da competi&ccedil;&atilde;o </h1>
+
+Neste ano, todos os site da Am&eacute;rica Latina ocorreram
+simultaneamente e todas as submiss&otilde;es foram julgadas pela
+equipe de ju&iacute;zes. O resultado global da Am&eacute;rica Latina:
+<ul>
+  <li> <a href="resultadoLatam.pdf"> Resultado Global da
+  Am&eacute;rica Latina </a> 
+</ul> 
+<p>
+
+
+
+O time campe&atilde;o da XXIII Maratona de Programa&ccedil;&atilde;o
+2018 foi o time <a href="fotos/icmc.jpg"> Time do dia 10  </a> da Universidade
+de S&atilde;o Paulo, campus , formado por Yan Couto, Victor Sena Moleiro e
+Arthur Nascimento e pelos coaches Renzo Gomez e Marcos Kawakami. &Eacute; a terceira vez que uma equipe da
+Universidade de S&atilde;o Paulo &eacute; campe&atilde; da Maratona
+em 22 edi&ccedil;&otilde;es da competi&ccedil;&atilde;o. Ser&aacute; a
+d&eacute;cima quinta vez que a USP representar&aacute; o Brasil em
+uma final mundial do ICPC. <p>
+
+Os times medalhistas foram:
+<ul>
+  <li> <font color=gold> Medalhas de Ouro: </font>
+  <ul>
+    <li> <b> <a href="fotos/usp1.jpg"> USP-SP - ¯\_( "/ )_/¯
+    </a></b>:  Yan Couto, Victor Sena Moleiro e Arthur Nascimento e
+    pelos coaches Renzo Gomez e Marcos Kawakami. <b> Classificado para a final mundial </b>
+    
+    <li> <b> <a href="fotos/usp-sc.jpg"> USP-SC - Trei Linha </a></b>:
+    Samuel Santos, Rodrigo Weigert e Lucas de Oliveira Pacheco e
+    coaches Danilo Tedeschi e Bruno Sanches <b> Classificado para a
+    final mundial </b>
+    
+    <li> <b> <a href="fotos/ufpe.jpg"> UFPE - ALT</a></b>: Arthur
+  Costa, Tiago Gon&ccedil;alves e Lucas Santana e coaches Katia
+  Guimar&atilde;es e Mario Henrique da Silva <b> Classificado para a final mundial </b> 
+  </ul>
+  
+  <li> <font color=silver> Medalhas de Prata:  </font>
+  <ul>
+    <li> <b> <a href="fotos/usp2.jpg"> USP-SP - dog hits dog </a></b>:
+    Gabriel Oliveira, Nathan Benedetto Proen&ccedil;a, Pedro Sousa e coaches Renzo
+    Gomez e Marcos Kawakami.
+    
+     <li> <b> <a href="fotos/ufcg1.jpg"> UFCG - Choose difficulty: TITAN </a></b>: Felipe Mota dos
+    Santos, &Aacute;rysson Figueiredo, Ordan Silva Santos e Paulo
+    Silva (reserva) e coach Rohit Gheyi <b> Classificado para a final
+    mundial </b>
+    
+    <li> <b> <a href="fotos/ufrn.jpg"> UFRN - Ginga com
+    Tapioca</a></b>: Railton Calheiros, H&eacute;lio Duarte, Victor
+    Lima e Paulo Augusto de Lima Medeiros (reserva) e coaches Carlos
+    Prolo, Sergio Medeiros e Rafael Gomes. <b> Classificado para a final mundial </b> 
+
+   
+  </ul>
+  <li> <font color=bronze> Medalhas de Bronze: </font>
+  <ul>
+    <li> <b> <a href="fotos/ufcg2.jpg"> UFCG - Se juntas causa imagina juntas
+  </a></b>: Gustavo Bezerra Ribeiro, Emerson Leonardo Lucena, Arthur
+  Vinicius Tom&eacute; Rodrigues, Rodrigo Farias de Macedo (reserva) e coach Rohit Gheyi.  
+    
+    <li> <b> <a href="fotos/ufrj.jpg"> UFRJ - esse &eacute; meu
+    time</a></b>: Igor Figueiredo, Tiago Montalv&atilde;o, Ian Miranda
+    e coach Marcia Cerioli.  <b> Classificado para a final mundial </b> 
+     
+    <li> <b> <a href="fotos/ime.jpg"> IME - Lorem Ipsum </a></b>: Athos Cotta
+    Couto, Naum Azeredo Fernandes Barreira, Matheus Cari&uacute;s
+    Castro e Carla Cosenza (reserva) e coaches Claudia Justel e
+    Geraldo Avelino.  <b> Classificado para a final mundial </b> 
+
+    <li> <b> <a href="fotos/ita.jpg"> ITA - CalopsITA </a></b>: Lucas
+  Fran&ccedil;a de Oliveira, Matheus Le&atilde;o, Lucas Ferreira,
+  Caique Lira (reserva) e coach Armando Gouveia. 
+  </ul>
+</ul>
+<p>
+
+
+O <a href="reports/detailed-final-scoreboard/Report Page.html"> placar final da competi&ccedil;&atilde;o</a> pode ser conferido
+neste link.
+<a href="reports/statistics/Report Page.html">
+Estat&iacute;sticas. </a> 
+<a href="reports/clarification-list/Report Page.html">
+Clarifications.</a>
+<a href="reports/run-list/Report Page.html">
+Runs</a>. <p>
+
+Foram reconhecidos os campe&otilde;es regionais:
+<ul>
+  <li> Centro-Oeste - <a href="fotos/ufg.jpg"> UFG - Where are the
+  monkeys</a>: Misael Mateus Oliveira de Morais, Marcos Lucas Veloso
+  Junqueira, Rafael de Assis Cruz e coach Humberto Longo. 
+  <li> Nordeste - <a href="fotos/ufpe.jpg"> UFPE - ALT</a>: Arthur
+  Costa, Tiago Gon&ccedil;alves e Lucas Santana e coaches Katia
+  Guimar&atilde;es e Mario Henrique da Silva
+  <li> Norte - <a href="fotos/uea.jpg"> UEA - Wesley e os
+  Safad&otilde;es</a>: Wesley Rocha, Erick Monteiro, Francisco
+  E.P. Arcos Filho e coach Sergio Cleger Tamayo. 
+  <li> Sudeste - <a href="fotos/usp1.jpg"> USP - ¯\_( "/ )_/¯</a>: Yan Couto, Victor Sena Moleiro e Arthur Nascimento e
+    pelos coaches Renzo Gomez e Marcos Kawakami.
+  <li> Sul - <a href="fotos/unioeste.jpg"> UNIOESTE-Cascavel - Ops! Solu&ccedil;&atilde;o
+  Trivial</a>: Luis Fernando Veronese Trivelatto, Cleison Arenhart dos
+  Santos, Murillo Douglas Oliveira Machado e coaches Josu&eacute;
+  Castro e Adriana Postal. 
+</ul> <p> 
+
+
+V&aacute;rias fotos, v&iacute;deos e muito da festa est&atilde;o dispon&iacute;veis na <a
+href="http://www.facebook.com/maratona"> p&aacute;gina da Maratona no
+Facebook</a>. <p>
+
+Al&eacute;m da competi&ccedil;&atilde;o oficial houve uma <a
+href="reports/ccl/"> competi&ccedil;&atilde;o "caf&eacute;
+com leite" </a> com a participa&ccedil;&atilde;o de 5 equipes. A
+equipe "Is it rated?" sagrou-se 
+campe&atilde; e era formada por <a href="fotos/ccl.jpg"> Junior
+Andrade, Marcos
+Kawakami, Thiago Carvalho Pinto</a>. 
+
+<p>
+<font color=red> <b> 
+Os times classificados para a final mundial ser&atilde;o convidados a
+fazer o <a href="http://maratona.ic.unicamp.br/MaratonaVerao2018/">  curso de treinamento </a> que ocorrer&aacute; em
+janeiro de 2018 na Unicamp.
+</b> </font> 
+    
+  
+
+<hr>
+<address></address>
+<!-- hhmts start -->Last modified: Mon Nov 13 16:06:05 -02 2017 <!-- hhmts end -->
+</body> </html>
