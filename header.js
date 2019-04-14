@@ -5,6 +5,9 @@ document.write(`
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"
     integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
     crossorigin="anonymous"></script>
+ <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+   integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+   crossorigin="anonymous"></script>
   <script language="javascript" type="text/javascript" src="sidebar.js"></script>
   <div id="fb-root"></div>
   <script async defer src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.2"></script>
@@ -15,9 +18,9 @@ document.write(`
         <a class="navbar-brand text-center" href="index18.html">
           <img src="imagens/logo_maratona.png" alt="Logo da Maratona">
         </a>
-        <a class="list-group-item list-group-item-action bg-light" href="./resultados18/">
-          <i class="fas fa-trophy"></i>
-          Resultados da Final Brasileira de 2018
+        <a class="list-group-item list-group-item-action bg-light" href="./final18.html">
+          <img src="imagens/logo18.png">
+          Final Brasileira 2018
         </a>
         <a class="list-group-item list-group-item-action bg-light" href="./vagas18.html">
           <i class="fa fa-users" aria-hidden="true"></i>
@@ -26,10 +29,6 @@ document.write(`
         <a class="list-group-item list-group-item-action bg-light" href="./wf18.html">
           <img src="wf18/2018logo.jpg">
           Final Mundial 2017/18
-        </a>
-        <a class="list-group-item list-group-item-action bg-light" href="./final18.html">
-          <img src="imagens/logo18.png">
-          Final Brasileira 2018
         </a>
         <a class="list-group-item list-group-item-action bg-light" href="./info18.html">
           <i class="fas fa-info-circle"></i>
