@@ -71,7 +71,7 @@ document.write(`
               </a>
             </li>
             <li class="nav-item">
-              <a href="https://www.facebook.com/maratona/" class="nav-link">
+              <a href="https://www.facebook.com/maratona/" target="_blank" class="nav-link">
                 <i class="fab fa-facebook-square"></i>
                 Página
               </a>
