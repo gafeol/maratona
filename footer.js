@@ -13,5 +13,4 @@ document.write(`
       </div>
     </div>
   </footer>
-  </div> <!-- fecha do wrapper -->
 `)
