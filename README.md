@@ -3,7 +3,7 @@ Reformulação da página para a [Maratona Brasileira de programação](http://m
 
 ## Mudanças:
 
-- Transformando a página O que é? em uma junção de:
+- Transformando a página Sobre em uma junção de:
 O que é?
 Regras
 Ambiente Computacional
