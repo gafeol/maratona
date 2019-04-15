@@ -30,7 +30,7 @@ document.write(`
           <img src="wf18/2018logo.jpg">
           Final Mundial 2017/18
         </a>
-        <a class="list-group-item list-group-item-action bg-light" href="./info18.html">
+        <a class="list-group-item list-group-item-action bg-light" href="./sobre.html">
           <i class="fas fa-info-circle"></i>
           Sobre
         </a>
